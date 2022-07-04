@@ -6,11 +6,12 @@ An HTML based webpage.
 ## Getting Started
 
 Click on the link under the "About" section on the righthand side of the page.
+https://sjaanackermann.github.io/Favourite-Things2/
 
 ### Prerequisites
 
 ```
-https://sjaanackermann.github.io/Favourite-Things2/
+None
 ```
 
 
